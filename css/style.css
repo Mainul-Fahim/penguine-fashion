@@ -1,0 +1,22 @@
+  
+body{
+
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+
+
+}
+
+
+.button-color{
+
+    background-color: #A4BC46;
+    width: 170px;
+    height: 60px;
+    font-family: cursive;
+    border-radius: 10px;
+    color: white;
+
+
+
+}
